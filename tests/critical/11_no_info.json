@@ -1,0 +1,11 @@
+{
+  "complaint": "I have a problem with my bKash account and need help. Please look into my issue.",
+  "transactions": [],
+  "metadata": {
+    "ticket_id": "TKT-NOINFO-011",
+    "customer_id": "CUST-7788",
+    "channel": "app",
+    "locale": "en",
+    "submitted_at": "2026-06-26T08:00:00Z"
+  }
+}

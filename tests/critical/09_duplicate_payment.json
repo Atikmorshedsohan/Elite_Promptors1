@@ -1,0 +1,28 @@
+{
+  "complaint": "I made one payment of 1250 taka to DBBL but I was charged twice. Two transactions on the same day, same amount. I need a refund for the duplicate charge.",
+  "transactions": [
+    {
+      "transaction_id": "TXN-DUP-A",
+      "timestamp": "2026-06-25T09:15:00Z",
+      "type": "payment",
+      "amount": 1250.0,
+      "counterparty": "DBBL",
+      "status": "success"
+    },
+    {
+      "transaction_id": "TXN-DUP-B",
+      "timestamp": "2026-06-25T09:17:00Z",
+      "type": "payment",
+      "amount": 1250.0,
+      "counterparty": "DBBL",
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "ticket_id": "TKT-DUP-009",
+    "customer_id": "CUST-7788",
+    "channel": "app",
+    "locale": "en",
+    "submitted_at": "2026-06-26T08:00:00Z"
+  }
+}

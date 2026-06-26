@@ -1,0 +1,20 @@
+{
+  "complaint": "I sent 75000 taka to 01700000000 yesterday for an emergency but recipient claims they never received. This is a large amount, please treat as urgent.",
+  "transactions": [
+    {
+      "transaction_id": "TXN-BIG",
+      "timestamp": "2026-06-25T08:00:00Z",
+      "type": "send_money",
+      "amount": 75000.0,
+      "counterparty": "01700000000",
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "ticket_id": "TKT-CRITICAL-010",
+    "customer_id": "CUST-7788",
+    "channel": "app",
+    "locale": "en",
+    "submitted_at": "2026-06-26T08:00:00Z"
+  }
+}

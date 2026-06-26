@@ -1,0 +1,20 @@
+{
+  "complaint": "I accidentally sent 2000 taka to 01999999999 instead of 01888888888. Please help me get the money back from the wrong recipient.",
+  "transactions": [
+    {
+      "transaction_id": "TXN-WRONG",
+      "timestamp": "2026-06-25T14:20:00Z",
+      "type": "send_money",
+      "amount": 2000.0,
+      "counterparty": "01999999999",
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "ticket_id": "TKT-WRONG-008",
+    "customer_id": "CUST-7788",
+    "channel": "app",
+    "locale": "en",
+    "submitted_at": "2026-06-26T08:00:00Z"
+  }
+}

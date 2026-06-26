@@ -1,0 +1,20 @@
+{
+  "complaint": "Someone called me pretending to be bKash support and asked for my PIN. I sent 15000 taka to 01555555555 thinking it was verification. Now I cannot reach them and my money is gone. Please help immediately.",
+  "transactions": [
+    {
+      "transaction_id": "TXN-PHISH",
+      "timestamp": "2026-06-25T18:45:00Z",
+      "type": "send_money",
+      "amount": 15000.0,
+      "counterparty": "01555555555",
+      "status": "success"
+    }
+  ],
+  "metadata": {
+    "ticket_id": "TKT-PHISH-007",
+    "customer_id": "CUST-7788",
+    "channel": "app",
+    "locale": "en",
+    "submitted_at": "2026-06-26T08:00:00Z"
+  }
+}
